@@ -10,3 +10,6 @@ Data was extracted from opendataparis.com, where the Autolib availability inform
 * Date : This sample contains data from April 1 to April 9, 2018.
 
 * License : Open Database License
+
+## Programming Languages for Analysis
+In this project SQL and Python programming languages were used to analyze the dataset. In python, pandas and numpy libraries were imported to enable code execution. Google colab notebook was used to write and execute the code, and data analysis. 
